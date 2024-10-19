@@ -1,0 +1,1 @@
+cli generate code for ttt a flutter clean architecture
